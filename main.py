@@ -9,7 +9,6 @@ def main():
 
         for row in cur:
             print(row)
-
     except:
         print("Opss... problem with connection")
 
